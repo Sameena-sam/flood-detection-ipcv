@@ -1,0 +1,4 @@
+Image/*
+!Image/README.md
+Mask/*
+!Mask/README.md
